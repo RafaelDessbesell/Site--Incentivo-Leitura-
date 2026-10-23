@@ -40,17 +40,6 @@ Em conformidade com as diretrizes acadêmicas e profissionais, declara-se que fe
 
 ---
 
-## 📁 Estrutura do Projeto
-
-
-.
-├── index.html          # Estrutura principal da página
-├── css/
-│   └── styles.css      # Estilos e formatação da interface
-├── js/
-│   └── script.js       # Lógica e interatividade em JavaScript
-└── README.md           # Documentação do projeto
-
 ## 👤 Autor
 
 * **Rafael Alessandro Dessbesell**
@@ -62,6 +51,18 @@ Em conformidade com as diretrizes acadêmicas e profissionais, declara-se que fe
 ## 📜 Licença
 
 Este projeto está sob a licença [MIT](LICENSE). Consulte o arquivo `LICENSE` para obter mais informações.
+
+## 📁 Estrutura do Projeto
+
+
+.
+├── index.html          # Página principal da aplicação
+├── css/
+│   └── styles.css      # Estilos e estilização da interface
+├── js/
+│   └── script.js       # Lógica e interatividade do sistema
+├── assets/             # Imagens, ícones e recursos visuais
+└── README.md           # Documentação completa do projeto
 
 
 
