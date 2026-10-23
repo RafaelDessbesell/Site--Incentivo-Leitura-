@@ -48,9 +48,7 @@ Em conformidade com as diretrizes acadêmicas e profissionais, declara-se que fe
 
 ---
 
-## 📜 Licença
 
-Este projeto está sob a licença [MIT](LICENSE). Consulte o arquivo `LICENSE` para obter mais informações.
 
 ## 📁 Estrutura do Projeto
 
