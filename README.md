@@ -54,7 +54,7 @@ Este projeto está sob a licença [MIT](LICENSE). Consulte o arquivo `LICENSE` p
 
 ## 📁 Estrutura do Projeto
 
-
+```text
 .
 ├── index.html          # Página principal da aplicação
 ├── css/
