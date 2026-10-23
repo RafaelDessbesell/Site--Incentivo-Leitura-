@@ -42,7 +42,7 @@ Em conformidade com as diretrizes acadêmicas e profissionais, declara-se que fe
 
 ## 📁 Estrutura do Projeto
 
-```text
+
 .
 ├── index.html          # Estrutura principal da página
 ├── css/
