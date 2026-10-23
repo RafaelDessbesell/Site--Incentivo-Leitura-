@@ -43,8 +43,8 @@ Em conformidade com as diretrizes acadêmicas e profissionais, declara-se que fe
 ## 👤 Autor
 
 * **Rafael Alessandro Dessbesell**
-* GitHub: [@seu-usuario](https://github.com/seu-usuario)
-* LinkedIn: [Seu Perfil](https://linkedin.com/in/seu-perfil)
+* GitHub: (https://github.com/seu-usuario)
+* LinkedIn: (https://linkedin.com/in/seu-perfil)
 
 ---
 
